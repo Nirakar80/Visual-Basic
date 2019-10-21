@@ -1,0 +1,12 @@
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.Cache
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb
+C:\Users\Business\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbprojResolveAssemblyReference.cache
